@@ -1,3 +1,4 @@
 Step 1: Order the Pizza
+Step 1a: Add extras-- toppings, sides
 Step 2: Wait for the delivery
 Step 3: Tip the driver
